@@ -28,6 +28,5 @@ public class LoadBalancedRoutes {
                         .uri("lb://inventory-failover")
                 )
                 .build();
-
     }
 }
